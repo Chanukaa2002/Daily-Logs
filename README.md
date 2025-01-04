@@ -3,8 +3,8 @@
 
 | Action               | Repo          | Branch           | Repo Owner    | Date     |
 |----------------------|---------------|------------------|---------------|----------|
-| modified swagger.yml | G5-BE         |hotfix/Swagger_doc|SasinduChandupa|2025/01/03|
-<!-- |                      |               |                  |               |          | -->
+| modified swagger.yaml| G5-BE         |hotfix/Swagger_doc|SasinduChandupa|2025/01/03|
+| modified swagger.yaml| G5-BE         |hotfix/Swagger_doc|SasinduChandupa|2025/01/04| 
 <!-- |                      |               |                  |               |          | -->
 <!-- |                      |               |                  |               |          | -->
 <!-- |                      |               |                  |               |          | -->
