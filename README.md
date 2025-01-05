@@ -1,11 +1,11 @@
 # Daily-Logs
 
 
-| Action               | Repo          | Branch           | Repo Owner    | Date     |
-|----------------------|---------------|------------------|---------------|----------|
-| modified swagger.yaml| G5-BE         |hotfix/Swagger_doc|SasinduChandupa|2025/01/03|
-| modified swagger.yaml| G5-BE         |hotfix/Swagger_doc|SasinduChandupa|2025/01/04| 
-<!-- |                      |               |                  |               |          | -->
+| Action                           | Repo          | Branch           | Repo Owner    | Date     |
+|----------------------------------|---------------|------------------|---------------|----------|
+| modified swagger.yaml            | G5-BE         |hotfix/Swagger_doc|SasinduChandupa|2025/01/03|
+| modified swagger.yaml            | G5-BE         |hotfix/Swagger_doc|SasinduChandupa|2025/01/04| 
+| change color theme and fixed bugs| portfolio     |master            |Chanukaa2002   |2025/01/05|
 <!-- |                      |               |                  |               |          | -->
 <!-- |                      |               |                  |               |          | -->
 <!-- |                      |               |                  |               |          | -->
